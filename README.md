@@ -1,1 +1,2 @@
 # DataScientistPython
+#Hoo Quang Sinh
